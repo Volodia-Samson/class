@@ -1,9 +1,9 @@
 .size{
-    size: 24px;  
+    font-size: 24px;  
   }
 
   .colorP{
-     background-color : green;
+     color : green;
   }
 
   .colorS{
